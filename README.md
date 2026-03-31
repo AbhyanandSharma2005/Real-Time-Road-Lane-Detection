@@ -28,3 +28,6 @@ In image processing, the Hough transformation is a feature extraction method use
 
 ## Draw lines on the Image or Video ##
 After identifying lane lines in our field of interest using Hough Line Transform, we overlay them on our visual input(video stream/image). 
+
+## Conclusion ##
+We covered one of many ways for detecting road lanes using Canny Edge Detector and Hough Transform. Some other ways for road lane detection use complex neural networks and sensor data. This kind of advanced techniques and algorithms are currently used in Tesla for autonomous driving. The algorithm discussed in this article is the first step in understanding the basic working of autonomous vehicle. We will be coming up with more articles to help you understand difficult concepts like autonomous driving easily. 
