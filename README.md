@@ -2,6 +2,9 @@
 
 Autonomous Driving Car is one of the most disruptive innovations in AI. Fuelled by Deep Learning algorithms, they are continuously driving our society forward and creating new opportunities in the mobility sector. An autonomous car can go anywhere a traditional car can go and does everything that an experienced human driver does. But it's very essential to train it properly. One of the many steps involved during the training of an autonomous driving car is lane detection, which is the preliminary step. Today, we are going to learn how to perform lane detection using videos.
 
+# 🎥 Demo (GIF Preview) #
+<p align="center"> <img src="output_video-ezgif.com-video-to-gif-converter.gif" alt="Lane Detection Demo" width="700"/> </p>
+
 # Brief steps involved in Road Lane Detection
 
 Road Lane Detection requires to detection of the path of self-driving cars and avoiding the risk of entering other lanes. Lane recognition algorithms reliably identify the location and borders of the lanes by analyzing the visual input. Advanced driver assistance systems (ADAS) and autonomous vehicle systems both heavily rely on them. Today we will be talking about one of these lane detection algorithms. The steps involved are:
