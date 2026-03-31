@@ -13,34 +13,51 @@ Road Lane Detection requires to detection of the path of self-driving cars and a
 
 ## ✨ Project Highlights ##
 🚀 Real-time lane detection using classical Computer Vision
+
 ⚡ Runs efficiently on CPU (no GPU required)
+
 🎯 Detects and visualizes lane boundaries accurately
+
 🧠 Designed for ADAS & Autonomous Driving systems
+
 🧩 Modular pipeline for easy customization
 
 ## 🛠️ Tech Stack ##
-Category	Tools Used
-Language	Python 3.x
-Library	OpenCV (cv2)
-Numerical Ops	NumPy
-Domain	ADAS / Autonomous Driving
+Language :- Python 3.x
+
+Library  :- OpenCV (cv2)
+
+Numerical :- ps	NumPy
+
+Domain	 :- ADAS / Autonomous Driving
 
 ## 📂 Project Structure ##
 Real-Time-Road-Lane-Detection/
+
 │── Hough_Lines.ipynb
+
 │── Lane_Detector.ipynb
+
 │── Region_Finder.ipynb
+
 │── video.mov
+
 │── output_video.mov
+
 │── image.jpg
+
 │── output_video-ezgif.com-video-to-gif-converter.gif
+
 │── demo.gif
+
 │── README.md
 
 ## 📊 Performance ##
 
 ✅ Real-time processing on CPU
+
 ✅ Low latency
+
 ✅ Best performance in daylight conditions
 
 ## Capturing and decoding video file ##
@@ -68,20 +85,26 @@ After identifying lane lines in our field of interest using Hough Line Transform
 
 ## ⚠️ Struggles with: ##
 Curved roads
+
 Night/low-light conditions
+
 Faded lane markings
 
 ## 🚀 Future Enhancements ##
 Curve fitting (polynomial lanes)
+
 Kalman filtering
+
 Bird’s-eye view transform
+
 Deep learning integration
+
 Lane departure warning
 
 ## Conclusion ##
 We covered one of many ways for detecting road lanes using Canny Edge Detector and Hough Transform. Some other ways for road lane detection use complex neural networks and sensor data. This kind of advanced techniques and algorithms are currently used in Tesla for autonomous driving. The algorithm discussed in this article is the first step in understanding the basic working of autonomous vehicle. We will be coming up with more articles to help you understand difficult concepts like autonomous driving easily. 
 
 ## 👨‍💻 Author ##
-
 Abhyanand Sharma
+
 B.Tech CSE (AI & ML)
